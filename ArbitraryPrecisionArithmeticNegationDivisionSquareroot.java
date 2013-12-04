@@ -1,7 +1,6 @@
-/** Name: Renkai Ji and Zhuoyi Wang
+/** Name: Renkai Ji
 * CS6301, Project 3
 * Section 014
-* Due Date: 2 AM, 10/07/13
 * Functional description:
 * 
 * Extend project 2 and add the following features:
