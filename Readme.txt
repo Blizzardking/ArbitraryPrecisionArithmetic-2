@@ -1,7 +1,8 @@
-/** Name: Renkai Ji and Zhuoyi Wang
+/* 
+* Author: Renkai Ji
 * CS6301, Project 3
 * Section 014
-* Due Date: 2 AM, 10/07/13
+*/
 
 
 
