@@ -1,5 +1,5 @@
-ArbitraryPrecisionArithmetic
-============================
+ArbitraryPrecisionArithmetic - 2
+================================
 /* 
 * Author: Renkai Ji
 * CS6301, Project 3
